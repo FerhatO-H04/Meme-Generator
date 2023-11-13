@@ -1,0 +1,12 @@
+.Container{
+
+    width: 620px;
+    height: 760px;
+
+    border-radius: 10px;
+    
+}
+.subContainer{
+    padding: 40px;
+
+}

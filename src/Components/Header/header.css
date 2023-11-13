@@ -1,0 +1,16 @@
+.header{
+    max-height: 66px;
+    display: flex;
+   padding: 10px;
+    justify-content: left;
+    align-items: center;
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    border-radius: 10px 10px 0px 0px;
+}
+.title{
+    color: white;
+    margin: 0px 16px;
+    font-family: 'Karla', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+}
